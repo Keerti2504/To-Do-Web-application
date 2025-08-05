@@ -94,7 +94,7 @@ Live search input.
 - 📦 Bulk Actions
 Mark All Done
 Clear All Tasks
---
+---
 ## 💡 Future Enhancements (Optional Ideas)
 - ✅ User authentication via Firebase Auth
 - 🌐 Multi-user task sync
