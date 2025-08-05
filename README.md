@@ -76,27 +76,27 @@ python todo_app.py
 
 ---
 ## 📋 Core Functionalities
-➕ Add Task
+- ➕ Add Task
 Enter task text and select priority.
 Click Add Task button.
-🔄 Edit Task
+- 🔄 Edit Task
 Click Edit, modify text or priority.
 Press Enter or click Save.
-✅ Complete Task
+- ✅ Complete Task
 Check the box to mark as done.
-🗑️ Delete Task
+- 🗑️ Delete Task
 Click Delete button.
-📊 Progress Bar
+- 📊 Progress Bar
 Dynamically updates based on completed tasks.
-🔍 Filter & Search
+- 🔍 Filter & Search
 Filter by All, Done, or Pending.
 Live search input.
-📦 Bulk Actions
+- 📦 Bulk Actions
 Mark All Done
 Clear All Tasks
 --
 ## 💡 Future Enhancements (Optional Ideas)
-✅ User authentication via Firebase Auth
-🌐 Multi-user task sync
-📱 PWA/mobile support
-🕒 Due dates and reminders
+- ✅ User authentication via Firebase Auth
+- 🌐 Multi-user task sync
+- 📱 PWA/mobile support
+- 🕒 Due dates and reminders
