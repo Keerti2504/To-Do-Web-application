@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Firebase service account key (don't commit your keys!)
+firebase_key.json
+*.json
+
+# VSCode settings
+.vscode/
+
+# Environment variables and virtual environment
+.env
+venv/
+env/
+
+# Logs
+*.log
+
+# NiceGUI cache or temp files (if any)
+.nicegui_cache/
